@@ -17,3 +17,5 @@ class Palette {
     colors: [Colors.transparent, Colors.black26],
   );
 }
+
+//색감 저장해놓은 파일
